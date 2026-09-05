@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Outfit:wght@400;500;600;700;800;900&display=swap');
+
+:root {
+  --bg-main: #FAF9F6;
+  --bg-card: #FFFFFF;
+  --text-main: #1E293B;
+  --text-muted: #64748B;
+  --pastel-lilac: #E0D4FD;
+  --pastel-lilac-light: #F3EEFF;
+  --pastel-peach: #FFE5D9;
+  --pastel-peach-light: #FFF0EB;
+  --pastel-mint: #D1FAE5;
+  --pastel-mint-light: #ECFDF5;
+  --pastel-amber: #FEF3C7;
+  --border-fine: #F1F5F9;
+  --border-card: #E2E8F0;
+  --shadow-subtle: 0 4px 20px -2px rgba(0, 0, 0, 0.03), 0 2px 6px -1px rgba(0, 0, 0, 0.02);
+  --shadow-hover: 0 12px 30px -4px rgba(224, 212, 253, 0.25), 0 4px 10px -2px rgba(0, 0, 0, 0.03);
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF9F6;
+}
+::-webkit-scrollbar-thumb {
+  background: #E2E8F0;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #CBD5E1;
+}
+
+/* Glass Panels */
+.glass-nav {
+  background: rgba(250, 249, 246, 0.94);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom: 1px solid rgba(241, 245, 249, 0.95);
+}
+
+/* Minimalist Card Styling */
+.clean-card {
+  background: #FFFFFF;
+  border: 1px solid #F1F5F9;
+  border-radius: 1.25rem;
+  box-shadow: var(--shadow-subtle);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.clean-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+  border-color: #E0D4FD;
+}
+
+/* Subtle Status Pulse */
+@keyframes calmPulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 6px rgba(16, 185, 129, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(16, 185, 129, 0);
+  }
+}
+
+.calm-pulsing-dot {
+  animation: calmPulse 2.5s infinite ease-in-out;
+}
+
+/* Modal & Bottom Sheet Transitions */
+.modal-overlay {
+  display: none;
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+}
+
+.modal-overlay.active {
+  display: flex;
+  opacity: 1;
+}
+
+.modal-content-box {
+  transform: translateY(100%);
+  transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.2s ease;
+}
+
+@media (min-width: 640px) {
+  .modal-content-box {
+    transform: translateY(16px) scale(0.98);
+    opacity: 0;
+  }
+}
+
+.modal-overlay.active .modal-content-box {
+  transform: translateY(0) scale(1);
+  opacity: 1;
+}
+
+/* Lightbox Modal */
+.lightbox-overlay {
+  display: none;
+  opacity: 0;
+  transition: opacity 0.22s ease-out;
+}
+
+.lightbox-overlay.active {
+  display: flex;
+  opacity: 1;
+}
+
+.lightbox-img-box {
+  transform: scale(0.95);
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.lightbox-overlay.active .lightbox-img-box {
+  transform: scale(1);
+}
+
+/* Selectable Pills & Option Cards */
+.option-pill {
+  transition: all 0.18s ease-out;
+  border: 1px solid #E2E8F0;
+  background-color: #FFFFFF;
+}
+
+.option-pill:hover {
+  border-color: #C4B5FD;
+  background-color: #FDFBFF;
+}
+
+.option-pill.active {
+  border-color: #8B5CF6;
+  background-color: #F3EEFF;
+  color: #5B21B6;
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgba(139, 92, 246, 0.12);
+}
+
+/* Filter Chip Styling */
+.filter-chip {
+  transition: all 0.18s ease-out;
+  border: 1px solid #E2E8F0;
+  background-color: #FFFFFF;
+  color: #475569;
+}
+
+.filter-chip:hover {
+  border-color: #CBD5E1;
+  background-color: #F8FAFC;
+  color: #1E293B;
+}
+
+.filter-chip.active {
+  background-color: #1E293B;
+  border-color: #1E293B;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+/* Masonry Photo Grid for Testimonials */
+.testi-masonry {
+  column-gap: 0.875rem;
+}
+
+/* Testimonial Photo Cards */
+.testi-card {
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 0.75rem;
+  transform: translateZ(0);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s ease;
+}
+
+.testi-card:hover {
+  transform: translateY(-3px) scale(1.01);
+  box-shadow: 0 10px 25px -4px rgba(0, 0, 0, 0.08);
+}
+
+/* FAQ Accordion Transitions */
+.faq-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.25s ease-out, opacity 0.2s ease-out;
+  opacity: 0;
+}
+
+.faq-item.open .faq-content {
+  max-height: 250px;
+  opacity: 1;
+}
+
+.faq-item.open .faq-icon {
+  transform: rotate(180deg);
+}
+
+/* Smooth Horizontal Scroll without ugly bars */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Touch targets >= 44px guarantee */
+.min-touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}

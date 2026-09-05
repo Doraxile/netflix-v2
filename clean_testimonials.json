@@ -1,0 +1,782 @@
+﻿[
+    {
+        "src":  "assets/testimonials/other_01.jpg",
+        "category":  "other",
+        "app":  "Apple Music",
+        "title":  "Apple Music Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/canva_01.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/canva_02.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/canva_03.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/canva_04.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #4"
+    },
+    {
+        "src":  "assets/testimonials/canva_05.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #5"
+    },
+    {
+        "src":  "assets/testimonials/canva_06.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #6"
+    },
+    {
+        "src":  "assets/testimonials/canva_07.png",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #7"
+    },
+    {
+        "src":  "assets/testimonials/canva_08.png",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #8"
+    },
+    {
+        "src":  "assets/testimonials/canva_09.png",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #9"
+    },
+    {
+        "src":  "assets/testimonials/canva_10.png",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #10"
+    },
+    {
+        "src":  "assets/testimonials/canva_11.png",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #11"
+    },
+    {
+        "src":  "assets/testimonials/canva_12.png",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #12"
+    },
+    {
+        "src":  "assets/testimonials/canva_13.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #13"
+    },
+    {
+        "src":  "assets/testimonials/canva_14.png",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #14"
+    },
+    {
+        "src":  "assets/testimonials/canva_15.png",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #15"
+    },
+    {
+        "src":  "assets/testimonials/canva_16.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #16"
+    },
+    {
+        "src":  "assets/testimonials/canva_17.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #17"
+    },
+    {
+        "src":  "assets/testimonials/canva_18.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #18"
+    },
+    {
+        "src":  "assets/testimonials/canva_19.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #19"
+    },
+    {
+        "src":  "assets/testimonials/canva_20.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #20"
+    },
+    {
+        "src":  "assets/testimonials/canva_21.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #21"
+    },
+    {
+        "src":  "assets/testimonials/canva_22.jpg",
+        "category":  "canva",
+        "app":  "Canva",
+        "title":  "Canva Bukti #22"
+    },
+    {
+        "src":  "assets/testimonials/capcut_01.png",
+        "category":  "capcut",
+        "app":  "CapCut",
+        "title":  "CapCut Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/capcut_02.png",
+        "category":  "capcut",
+        "app":  "CapCut",
+        "title":  "CapCut Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/capcut_03.png",
+        "category":  "capcut",
+        "app":  "CapCut",
+        "title":  "CapCut Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/capcut_04.png",
+        "category":  "capcut",
+        "app":  "CapCut",
+        "title":  "CapCut Bukti #4"
+    },
+    {
+        "src":  "assets/testimonials/capcut_05.png",
+        "category":  "capcut",
+        "app":  "CapCut",
+        "title":  "CapCut Bukti #5"
+    },
+    {
+        "src":  "assets/testimonials/capcut_06.png",
+        "category":  "capcut",
+        "app":  "CapCut",
+        "title":  "CapCut Bukti #6"
+    },
+    {
+        "src":  "assets/testimonials/capcut_07.png",
+        "category":  "capcut",
+        "app":  "CapCut",
+        "title":  "CapCut Bukti #7"
+    },
+    {
+        "src":  "assets/testimonials/capcut_08.png",
+        "category":  "capcut",
+        "app":  "CapCut",
+        "title":  "CapCut Bukti #8"
+    },
+    {
+        "src":  "assets/testimonials/disney_01.png",
+        "category":  "disney",
+        "app":  "Disney+",
+        "title":  "Disney+ Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/disney_02.jpg",
+        "category":  "disney",
+        "app":  "Disney+",
+        "title":  "Disney+ Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/disney_03.jpg",
+        "category":  "disney",
+        "app":  "Disney+",
+        "title":  "Disney+ Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/disney_04.jpg",
+        "category":  "disney",
+        "app":  "Disney+",
+        "title":  "Disney+ Bukti #4"
+    },
+    {
+        "src":  "assets/testimonials/disney_05.jpg",
+        "category":  "disney",
+        "app":  "Disney+",
+        "title":  "Disney+ Bukti #5"
+    },
+    {
+        "src":  "assets/testimonials/disney_06.png",
+        "category":  "disney",
+        "app":  "Disney+",
+        "title":  "Disney+ Bukti #6"
+    },
+    {
+        "src":  "assets/testimonials/other_02.jpg",
+        "category":  "other",
+        "app":  "Loklok",
+        "title":  "Loklok Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/netflix_01.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/netflix_02.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/netflix_03.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/netflix_04.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #4"
+    },
+    {
+        "src":  "assets/testimonials/netflix_05.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #5"
+    },
+    {
+        "src":  "assets/testimonials/netflix_06.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #6"
+    },
+    {
+        "src":  "assets/testimonials/netflix_07.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #7"
+    },
+    {
+        "src":  "assets/testimonials/netflix_08.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #8"
+    },
+    {
+        "src":  "assets/testimonials/netflix_09.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #9"
+    },
+    {
+        "src":  "assets/testimonials/netflix_10.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #10"
+    },
+    {
+        "src":  "assets/testimonials/netflix_11.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #11"
+    },
+    {
+        "src":  "assets/testimonials/netflix_12.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #12"
+    },
+    {
+        "src":  "assets/testimonials/netflix_13.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #13"
+    },
+    {
+        "src":  "assets/testimonials/netflix_14.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #14"
+    },
+    {
+        "src":  "assets/testimonials/netflix_15.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #15"
+    },
+    {
+        "src":  "assets/testimonials/netflix_16.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #16"
+    },
+    {
+        "src":  "assets/testimonials/netflix_17.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #17"
+    },
+    {
+        "src":  "assets/testimonials/netflix_18.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #18"
+    },
+    {
+        "src":  "assets/testimonials/netflix_19.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #19"
+    },
+    {
+        "src":  "assets/testimonials/netflix_20.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #20"
+    },
+    {
+        "src":  "assets/testimonials/netflix_21.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #21"
+    },
+    {
+        "src":  "assets/testimonials/netflix_22.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #22"
+    },
+    {
+        "src":  "assets/testimonials/netflix_23.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #23"
+    },
+    {
+        "src":  "assets/testimonials/netflix_24.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #24"
+    },
+    {
+        "src":  "assets/testimonials/netflix_25.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #25"
+    },
+    {
+        "src":  "assets/testimonials/netflix_26.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #26"
+    },
+    {
+        "src":  "assets/testimonials/netflix_27.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #27"
+    },
+    {
+        "src":  "assets/testimonials/netflix_28.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #28"
+    },
+    {
+        "src":  "assets/testimonials/netflix_29.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #29"
+    },
+    {
+        "src":  "assets/testimonials/netflix_30.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #30"
+    },
+    {
+        "src":  "assets/testimonials/netflix_31.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #31"
+    },
+    {
+        "src":  "assets/testimonials/netflix_32.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #32"
+    },
+    {
+        "src":  "assets/testimonials/netflix_33.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #33"
+    },
+    {
+        "src":  "assets/testimonials/netflix_34.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #34"
+    },
+    {
+        "src":  "assets/testimonials/netflix_35.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #35"
+    },
+    {
+        "src":  "assets/testimonials/netflix_36.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #36"
+    },
+    {
+        "src":  "assets/testimonials/netflix_37.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #37"
+    },
+    {
+        "src":  "assets/testimonials/netflix_38.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #38"
+    },
+    {
+        "src":  "assets/testimonials/netflix_39.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #39"
+    },
+    {
+        "src":  "assets/testimonials/netflix_40.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #40"
+    },
+    {
+        "src":  "assets/testimonials/netflix_41.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #41"
+    },
+    {
+        "src":  "assets/testimonials/netflix_42.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #42"
+    },
+    {
+        "src":  "assets/testimonials/netflix_43.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #43"
+    },
+    {
+        "src":  "assets/testimonials/netflix_44.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #44"
+    },
+    {
+        "src":  "assets/testimonials/netflix_45.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #45"
+    },
+    {
+        "src":  "assets/testimonials/netflix_46.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #46"
+    },
+    {
+        "src":  "assets/testimonials/netflix_47.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #47"
+    },
+    {
+        "src":  "assets/testimonials/netflix_48.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #48"
+    },
+    {
+        "src":  "assets/testimonials/netflix_49.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #49"
+    },
+    {
+        "src":  "assets/testimonials/netflix_50.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #50"
+    },
+    {
+        "src":  "assets/testimonials/netflix_51.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #51"
+    },
+    {
+        "src":  "assets/testimonials/netflix_52.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #52"
+    },
+    {
+        "src":  "assets/testimonials/netflix_53.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #53"
+    },
+    {
+        "src":  "assets/testimonials/netflix_54.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #54"
+    },
+    {
+        "src":  "assets/testimonials/netflix_55.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #55"
+    },
+    {
+        "src":  "assets/testimonials/netflix_56.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #56"
+    },
+    {
+        "src":  "assets/testimonials/netflix_57.png",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #57"
+    },
+    {
+        "src":  "assets/testimonials/netflix_58.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #58"
+    },
+    {
+        "src":  "assets/testimonials/netflix_59.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #59"
+    },
+    {
+        "src":  "assets/testimonials/netflix_60.jpg",
+        "category":  "netflix",
+        "app":  "Netflix",
+        "title":  "Netflix Bukti #60"
+    },
+    {
+        "src":  "assets/testimonials/other_03.jpg",
+        "category":  "other",
+        "app":  "Prime Video",
+        "title":  "Prime Video Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/other_04.jpg",
+        "category":  "other",
+        "app":  "Prime Video",
+        "title":  "Prime Video Bukti #4"
+    },
+    {
+        "src":  "assets/testimonials/other_05.jpg",
+        "category":  "other",
+        "app":  "Scribd",
+        "title":  "Scribd Bukti #5"
+    },
+    {
+        "src":  "assets/testimonials/spotify_01.jpg",
+        "category":  "spotify",
+        "app":  "Spotify",
+        "title":  "Spotify Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/spotify_02.jpg",
+        "category":  "spotify",
+        "app":  "Spotify",
+        "title":  "Spotify Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/spotify_03.jpg",
+        "category":  "spotify",
+        "app":  "Spotify",
+        "title":  "Spotify Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/spotify_04.jpg",
+        "category":  "spotify",
+        "app":  "Spotify",
+        "title":  "Spotify Bukti #4"
+    },
+    {
+        "src":  "assets/testimonials/spotify_05.jpg",
+        "category":  "spotify",
+        "app":  "Spotify",
+        "title":  "Spotify Bukti #5"
+    },
+    {
+        "src":  "assets/testimonials/spotify_06.jpg",
+        "category":  "spotify",
+        "app":  "Spotify",
+        "title":  "Spotify Bukti #6"
+    },
+    {
+        "src":  "assets/testimonials/spotify_07.jpg",
+        "category":  "spotify",
+        "app":  "Spotify",
+        "title":  "Spotify Bukti #7"
+    },
+    {
+        "src":  "assets/testimonials/spotify_08.jpg",
+        "category":  "spotify",
+        "app":  "Spotify",
+        "title":  "Spotify Bukti #8"
+    },
+    {
+        "src":  "assets/testimonials/vidio_01.jpg",
+        "category":  "vidio",
+        "app":  "Vidio",
+        "title":  "Vidio Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/vidio_02.png",
+        "category":  "vidio",
+        "app":  "Vidio",
+        "title":  "Vidio Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/vidio_03.png",
+        "category":  "vidio",
+        "app":  "Vidio",
+        "title":  "Vidio Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/viu_01.jpg",
+        "category":  "viu",
+        "app":  "Viu",
+        "title":  "Viu Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/viu_02.jpg",
+        "category":  "viu",
+        "app":  "Viu",
+        "title":  "Viu Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/viu_03.png",
+        "category":  "viu",
+        "app":  "Viu",
+        "title":  "Viu Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/viu_04.png",
+        "category":  "viu",
+        "app":  "Viu",
+        "title":  "Viu Bukti #4"
+    },
+    {
+        "src":  "assets/testimonials/viu_05.png",
+        "category":  "viu",
+        "app":  "Viu",
+        "title":  "Viu Bukti #5"
+    },
+    {
+        "src":  "assets/testimonials/other_06.jpg",
+        "category":  "other",
+        "app":  "WeTV",
+        "title":  "WeTV Bukti #6"
+    },
+    {
+        "src":  "assets/testimonials/other_07.jpg",
+        "category":  "other",
+        "app":  "WeTV",
+        "title":  "WeTV Bukti #7"
+    },
+    {
+        "src":  "assets/testimonials/other_08.jpg",
+        "category":  "other",
+        "app":  "YouTube",
+        "title":  "YouTube Bukti #8"
+    },
+    {
+        "src":  "assets/testimonials/other_09.jpg",
+        "category":  "other",
+        "app":  "YouTube",
+        "title":  "YouTube Bukti #9"
+    },
+    {
+        "src":  "assets/testimonials/other_10.jpg",
+        "category":  "other",
+        "app":  "Coin LINE",
+        "title":  "Coin LINE Bukti #10"
+    },
+    {
+        "src":  "assets/testimonials/other_11.jpg",
+        "category":  "other",
+        "app":  "Coin LINE",
+        "title":  "Coin LINE Bukti #11"
+    },
+    {
+        "src":  "assets/testimonials/convert_01.png",
+        "category":  "convert",
+        "app":  "Convert Saldo",
+        "title":  "Convert Saldo Bukti #1"
+    },
+    {
+        "src":  "assets/testimonials/convert_02.jpg",
+        "category":  "convert",
+        "app":  "Convert Saldo",
+        "title":  "Convert Saldo Bukti #2"
+    },
+    {
+        "src":  "assets/testimonials/convert_03.jpg",
+        "category":  "convert",
+        "app":  "Convert Saldo",
+        "title":  "Convert Saldo Bukti #3"
+    },
+    {
+        "src":  "assets/testimonials/convert_04.jpg",
+        "category":  "convert",
+        "app":  "Convert Saldo",
+        "title":  "Convert Saldo Bukti #4"
+    },
+    {
+        "src":  "assets/testimonials/convert_05.jpg",
+        "category":  "convert",
+        "app":  "Convert Saldo",
+        "title":  "Convert Saldo Bukti #5"
+    },
+    {
+        "src":  "assets/testimonials/convert_06.jpg",
+        "category":  "convert",
+        "app":  "Convert Saldo",
+        "title":  "Convert Saldo Bukti #6"
+    },
+    {
+        "src":  "assets/testimonials/convert_07.jpg",
+        "category":  "convert",
+        "app":  "Convert Saldo",
+        "title":  "Convert Saldo Bukti #7"
+    }
+]
